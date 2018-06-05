@@ -143,7 +143,7 @@
 
   // Typed Js
   $(".element").typed({
-    strings: ["Full-Stack Web Developer", "Full-Stack Web Developer"],
+    strings: ["Junior Web Developer", "Junior Web Developer"],
     typeSpeed: 1,
     backSpeed: 1,
     backDelay: 1000,
@@ -151,7 +151,7 @@
   });
 
   $(".sub-title").typed({
-    strings: ["Full-Stack Web Developer", "Full-Stack Web Developer"],
+    strings: ["Junior Web Developer", "Junior Web Developer"],
     typeSpeed: 1,
     backSpeed: 1,
     backDelay: 1400,
