@@ -199,7 +199,7 @@
   $('.gmap').mobileGmap({
     markers: [{
       position: 'center',
-      info: 'Charleston, SC',
+      info: 'Washington, D.C.',
       showInfo: true
     }]
   });
